@@ -4,10 +4,7 @@ package testcase;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * Issue 2: Kiểm thử hộp trắng - Nhánh lỗi, điều kiện biên, vòng lặp và ngoại lệ
- * Mục tiêu: Bao phủ tất cả nhánh FALSE, giá trị biên, ngoại lệ (exception)
- */
+
 public class BaiThucHanh04Test_Issue2 {
 
     // ===================== BÀI 1: Chu vi - Ngoại lệ & Biên =====================
