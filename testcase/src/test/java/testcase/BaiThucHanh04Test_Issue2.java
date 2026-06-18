@@ -82,7 +82,7 @@ public class BaiThucHanh04Test_Issue2 {
         assertThrows(IllegalArgumentException.class,
             () -> BaiThucHanh04.soNgayTrongThang(5, 0));
     }
-// test
+// test2
     @Test
     void testNamNhuan_khongChia4() {
         assertFalse(BaiThucHanh04.isNamNhuan(2023)); // không chia hết 4
